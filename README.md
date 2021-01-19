@@ -1,4 +1,4 @@
-#PHP Operators
+# PHP Operators
 You will find the exercises in the pdf file 
 ## Instructions :
 1. Please fork the repo and clone it on your local machine.
